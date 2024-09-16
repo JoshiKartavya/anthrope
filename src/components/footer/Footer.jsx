@@ -23,7 +23,7 @@ const Footer = () => {
         </div>
 
         <div className="right w-[35%]">
-          <h1 className='text-[--primary] overflow-y-hidden text-5xl font-medium text-end capitalize'>the content of this site is copyright-protected and is property of Anthrope group</h1>
+          <h1 className='text-[--primary] overflow-y-hidden text-3xl font-medium text-end capitalize'>the content of this site is copyright-protected and is property of Anthrope group</h1>
         </div>
       </div>
 
