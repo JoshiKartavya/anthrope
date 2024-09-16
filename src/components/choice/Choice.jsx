@@ -29,7 +29,7 @@ const Choice = () => {
             </div>
           </div>
         </div>
-        <div className="center lg:mt-0 w-full lg:w-[30%] h-full">
+        <div className="center lg:mt-0 w-full lg:w-[40%] h-full">
           <div className="img relative  w-80 lg:w-[90%] h-[14rem] lg:h-[88%] object-cover">
             <Image src="/hotel7.jpg" fill/>
           </div>
