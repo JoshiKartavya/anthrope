@@ -3,7 +3,7 @@ import "./Services.scss"
 
 const Services = () => {
   return (
-    <div className="h-[130vh] w-screen  overflow-x-hidden">
+    <div className="h-max w-screen  overflow-x-hidden">
       <div className="text w-full h-[30vh] flex flex-row items-center justify-center">
         <h1 className="overflow-y-hidden px-12 py-8 w-full lg:w-[80%] text-center text-2xl lg:text-5xl">"indulge in comfort and cheris unforgettable moments at our hotel, where hospitality meets excellence in every stay."</h1>
       </div>
