@@ -5,12 +5,12 @@ const Services = () => {
   return (
     <div className="h-max w-screen overflow-x-hidden flex flex-col gap-8">
       <div className="text w-full sm:h-[30vh] flex flex-row items-center justify-center">
-        <h1 className="overflow-y-hidden sm:px-12 sm:py-8 w-[90%] sm:w-[80%] lg:w-[80%] text-center text-xl lg:text-5xl">"indulge in comfort and cheris unforgettable moments at our hotel, where hospitality meets excellence in every stay."</h1>
+        <h1 className="overflow-y-hidden sm:px-12 sm:py-8 w-[90%] sm:w-[80%] lg:w-[80%] text-center text-sm lg:text-5xl">"indulge in comfort and cheris unforgettable moments at our hotel, where hospitality meets excellence in every stay."</h1>
       </div>
       <div className="services-main h-full lg:h-screen w-screen flex flex-col gap-0 lg:gap-8">
         <div className="title pl-8 lg:pl-12 text-2xl lg:text-5xl"><h1>Our services <i className="ri-gemini-fill"></i></h1></div>
         <div className="content flex flex-col lg:flex-row">
-          <div className="left h-auto lg:h-[80vh] flex flex-col justify-center items-center gap-12 w-full lg:w-1/2 pl-8 lg:pl-28 pb-12 lg:pb-0">
+          <div className="left h-auto lg:h-[80vh] flex flex-col justify-center items-center gap-12 w-[90%] lg:w-1/2 pl-8 lg:pl-28 pb-12 lg:pb-0">
             <div className="serv text-[--secondary] flex flex-col gap-2 bg-transparent">
               <h2 className="text-[--primary] bg-[--secondary] w-8 h-8 lg:w-12 lg:h-12 flex flex-col justify-center items-center text-center text-xl lg:text-3xl rounded-full">1</h2>
               <h1 className="text-xl lg:text-4xl">Provide the best choice of Room</h1>
