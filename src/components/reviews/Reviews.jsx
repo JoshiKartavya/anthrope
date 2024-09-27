@@ -11,9 +11,9 @@ const Reviews = () => {
 
       <div className="testimonials flex flex-col gap-12">
         <div className="review1 mt-6 md:mt-9 lg:mt-12 flex flex-col-reverse lg:flex-row justify-between items-center lg:w-full lg:h-[80%]">
-          <div className="text lg:w-1/2  lg:h-full">
-            <h1 className=" text-lg md:text-3xl lg:text-5xl text-[--secondary] font-clash font-medium overflow-y-hidden">"Riviera retreat: exquisite luxury, imapable services. a heaven of tranquility. the perfact escape for discerning travellers seeking opluence and relextaion"</h1>
-            </div>
+          <div className="text lg:w-1/2 lg:h-full">
+            <h1 className="text-sm md:text-xl lg:text-5xl text-[--secondary] font-clash font-medium overflow-y-hidden text-center lg:text-left">"Riviera retreat: exquisite luxury, imapable services. a heaven of tranquility. the perfact escape for discerning travellers seeking opluence and relextaion"</h1>
+          </div>
           <div className="img-container lg:w-1/2 h-full flex items-center justify-center">
             <div className="img-1 drop-shadow-2xl">
               <div className="frame bg-[#e1e1e1] lg:h-[22rem] lg:w-[20rem] flex flex-col items-center">
@@ -27,9 +27,9 @@ const Reviews = () => {
         </div>
 
         <div className="review1 mt-6 md:mt-9 lg:mt-12 flex flex-col-reverse lg:flex-row-reverse justify-between items-center lg:w-full lg:h-[80%]">
-          <div className="text lg:w-1/2  lg:h-full">
-            <h1 className=" text-lg md:text-3xl lg:text-5xl text-[--secondary] font-clash font-medium overflow-y-hidden">"Riviera retreat: exquisite luxury, imapable services. a heaven of tranquility. the perfact escape for discerning travellers seeking opluence and relextaion"</h1>
-            </div>
+          <div className="text lg:w-1/2 lg:h-full">
+            <h1 className="text-sm md:text-xl lg:text-5xl text-[--secondary] font-clash font-medium overflow-y-hidden text-center lg:text-left">"Riviera retreat: exquisite luxury, imapable services. a heaven of tranquility. the perfact escape for discerning travellers seeking opluence and relextaion"</h1>
+          </div>
           <div className="img-container lg:w-1/2 h-full flex items-center justify-center">
             <div className="img-1 drop-shadow-2xl">
               <div className="frame bg-[#e1e1e1] lg:h-[22rem] lg:w-[20rem] flex flex-col items-center">
@@ -43,9 +43,9 @@ const Reviews = () => {
         </div>
 
         <div className="review1 mt-6 md:mt-9 lg:mt-12 flex flex-col-reverse lg:flex-row justify-between items-center lg:w-full lg:h-[80%]">
-          <div className="text lg:w-1/2  lg:h-full">
-            <h1 className=" text-lg md:text-3xl lg:text-5xl text-[--secondary] font-clash font-medium overflow-y-hidden">"Riviera retreat: exquisite luxury, imapable services. a heaven of tranquility. the perfact escape for discerning travellers seeking opluence and relextaion"</h1>
-            </div>
+          <div className="text lg:w-1/2 lg:h-full">
+            <h1 className="text-sm md:text-xl lg:text-5xl text-[--secondary] font-clash font-medium overflow-y-hidden text-center lg:text-left">"Riviera retreat: exquisite luxury, imapable services. a heaven of tranquility. the perfact escape for discerning travellers seeking opluence and relextaion"</h1>
+          </div>
           <div className="img-container lg:w-1/2 h-full flex items-center justify-center">
             <div className="img-1 drop-shadow-2xl">
               <div className="frame bg-[#e1e1e1] lg:h-[22rem] lg:w-[20rem] flex flex-col items-center">
