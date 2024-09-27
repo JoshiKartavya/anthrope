@@ -1,8 +1,12 @@
-import React from 'react'
+import ChoiceMob from "./choice-mob/ChoiceMob"
+import ChoiceDesk from "./choice-desk/ChoiceDesk"
 
 const Choice = () => {
   return (
-    <div>Choice</div>
+    <>
+        <ChoiceMob />
+        <ChoiceDesk />
+    </>
   )
 }
 
