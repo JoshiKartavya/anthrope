@@ -1,7 +1,7 @@
 import './Footer.scss'
 const Footer = () => {
   return (
-    <div className='footer w-screen h-[50vh] lg:h-[70vh] bg-[--secondary] mt-12 py-10 overflow-y-hidden'>
+    <div className='footer w-screen h-[60vh] lg:h-[70vh] bg-[--secondary] mt-12 py-10 pb-16 sm:pb-20 md:pb-24 lg:pb-28 overflow-y-hidden'>
       <div className="title px-6 py-4 lg:px-12 lg:py-12 text-[--primary] flex flex-row items-center justify-between">
         <hr className='w-[55%] md:w-[70%] lg:w-[80%]' />
         <h1 className='overflow-y-hidden font-clash font-semibold text-2xl md:text-3xl lg:text-4xl'>Anthrope</h1>
@@ -23,7 +23,7 @@ const Footer = () => {
         </div>
 
         <div className="right w-full lg:w-[35%]">
-          <h1 className='text-[--primary] text-lg md:text-2xl lg:text-3xl font-medium text-center lg:text-end capitalize'>the content of this site is copyright-protected and is property of Anthrope group</h1>
+          <h1 className='text-[--primary] text-sm sm:text-base md:text-2xl lg:text-3xl font-medium text-center lg:text-end capitalize'>The content of this site is copyright-protected and is property of "Anthrope" group</h1>
         </div>
       </div>
 
