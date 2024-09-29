@@ -9,7 +9,7 @@ import './Content.scss'
 
 const Content = () => {
   return (
-    <div className="h-screen w-screen bg-[#e1e1e1] text-[#222222] text-6xl absolute z-20 overflow-x-hidden">
+    <div className="h-screen w-screen bg-[#e1e1e1] text-[#222222] text-6xl absolute z-20 overflow-x-hidden scrollbar-hide">
       <Hero />
       <Services />
       <Choice />
